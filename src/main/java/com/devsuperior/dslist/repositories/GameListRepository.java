@@ -1,4 +1,4 @@
-package com.devsuperior.dslist.Repositories;
+package com.devsuperior.dslist.repositories;
 
 
 import com.devsuperior.dslist.entities.GameList;
